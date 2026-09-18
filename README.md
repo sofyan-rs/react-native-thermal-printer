@@ -390,24 +390,6 @@ The `COMMANDS` object provides a comprehensive set of ESC/POS commands organized
 - Make sure to run `pod install` after installing dependencies for iOS.
 - Ensure your printer supports ESC/POS commands for best compatibility.
 
----
-
-## 👥 Contributors
-
-<table>
-    <tbody>
-        <tr>
-            <td align="center">
-                <a href="https://github.com/phattran1201">
-                    <img src="https://avatars.githubusercontent.com/u/36856455" width="100;" alt="phattran1201"/>
-                    <br />
-                    <sub><b>Harold Tran</b></sub>
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 <!-- Badge for README -->
 [npm]: https://img.shields.io/npm/v/%40haroldtran%2Freact-native-thermal-printer?&style=for-the-badge&logo=npm&logoColor=red
 [npm-URL]: https://www.npmjs.com/package/@haroldtran/react-native-thermal-printer
